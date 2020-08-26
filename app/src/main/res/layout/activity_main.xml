@@ -91,6 +91,6 @@
         android:layout_marginRight="15sp"
         android:gravity="end"
         android:text="Esqueceu a senha?"
-        android:textColor="#000"
+        android:textColor="#000" />
 
 </LinearLayout>
